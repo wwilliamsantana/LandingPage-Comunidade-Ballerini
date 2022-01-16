@@ -34,3 +34,50 @@ body {
   color: #fff2e7;
   font-size: 18px;
 }
+
+.conteudo {
+  border-top: 0.4px solid #fff2e7;
+  margin-bottom: 48px;
+}
+
+.conteudo-principal {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.conteudo-principal-escrito {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.conteudo-principal-escrito-titulo {
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 64px;
+  color: #fff2e7;
+}
+
+.conteudo-principal-escrito-subtitulo {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #ecd6c4;
+}
+
+.conteudo-principal-escrito-botao {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #2f2325;
+  background-color: #ecd6c4;
+  width: 180px;
+  height: 60px;
+  border-radius: 20px;
+  border-style: none;
+  box-shadow: 4px 5px 4px 0px rgba(0, 0, 0, 0, 25);
+}
+
+.conteudo-principal-imagem {
+  height: 430px;
+}
