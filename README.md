@@ -16,7 +16,7 @@ Desenvolver uma Landing Page da Comunidade Ballerini do Discord.
 <ul>
   <li> HTML</li>
   <li> CSS </li>
-  <li> Javascript </li>
+ 
 </ul>
 
 ## Layout
