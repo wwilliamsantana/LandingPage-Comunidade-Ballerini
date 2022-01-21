@@ -9,7 +9,7 @@
 
 ## :computer: Sobre  
 
-Desenvolver uma Landing Page da Comunidade Ballerini do Discord.
+Landing Page da Comunidade Ballerini do Discord.
 
 ## :rocket: Techs
 
